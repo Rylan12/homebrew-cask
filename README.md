@@ -1,6 +1,6 @@
 # Homebrew Cask
 
-foo
+foo1
 
 _“To install, drag this icon…” no more!_
 
